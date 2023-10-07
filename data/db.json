@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "وجبة 1",
+      "price": "10$",
+      "description": "وجبى 1 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://cdn.britannica.com/98/235798-050-3C3BA15D/Hamburger-and-french-fries-paper-box.jpg",
+      "category": "فطار"
+    },
+    {
+      "id": 2,
+      "title": "وجبة 2",
+      "price": "10$",
+      "description": "وجبى 2 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "فطار"
+    },
+    {
+      "id": 3,
+      "title": "وجبة 3",
+      "price": "10$",
+      "description": "وجبى 3 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "غداء"
+    },
+    {
+      "id": 4,
+      "title": "وجبة 4",
+      "price": "40$",
+      "description": "وجبى 4 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://cdn.britannica.com/98/235798-050-3C3BA15D/Hamburger-and-french-fries-paper-box.jpg",
+      "category": "عشاء"
+    },
+    {
+      "id": 5,
+      "title": "وجبة 5",
+      "price": "50$",
+      "description": "وجبى 5 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "فطار"
+    },
+    {
+      "id": 6,
+      "title": "وجبة 6",
+      "price": "60$",
+      "description": "وجبى 6 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://cdn.britannica.com/98/235798-050-3C3BA15D/Hamburger-and-french-fries-paper-box.jpg",
+      "category": "غداء"
+    },
+    {
+      "id": 7,
+      "title": "وجبة 7",
+      "price": "70$",
+      "description": "وجبى 7 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "عشاء"
+    },
+    {
+      "id": 8,
+      "title": "وجبة 8",
+      "price": "80$",
+      "description": "وجبى 8 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "فطار"
+    },
+    {
+      "id": 9,
+      "title": "وجبة 9",
+      "price": "90$",
+      "description": "وجبى 9 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://cdn.britannica.com/98/235798-050-3C3BA15D/Hamburger-and-french-fries-paper-box.jpg",
+      "category": "غداء"
+    },
+    {
+      "id": 10,
+      "title": "وجبة 10",
+      "price": "100$",
+      "description": "وجبى 10 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://cdn.britannica.com/98/235798-050-3C3BA15D/Hamburger-and-french-fries-paper-box.jpg",
+      "category": "عشاء"
+    },
+    {
+      "id": 11,
+      "title": "وجبة 11",
+      "price": "110$",
+      "description": "وجبى 11 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "غداء"
+    },
+    {
+      "id": 12,
+      "title": "وجبة 12",
+      "price": "120$",
+      "description": "وجبى 12 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "فطار"
+    },
+    {
+      "id": 13,
+      "title": "وجبة 14",
+      "price": "140$",
+      "description": "وجبى 14 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "عشاء"
+    },
+    {
+      "id": 14,
+      "title": "وجبة 15",
+      "price": "150$",
+      "description": "وجبى 15 عبارة عن وجبة لذيذة بسعر مخفض و عائلية",
+      "image": "https://i.pinimg.com/236x/ce/49/f5/ce49f54f0962c429acb74bb8502ce931.jpg",
+      "category": "فطار"
+    }
+  ]
+}
